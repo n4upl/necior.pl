@@ -11,10 +11,10 @@ $title = 'Formularz kontaktowy';
 // Email field "From" - name of sender (e.g. your first & last name)
 $from_name = "Formularz kontaktowy Necior";
 // Email field "From" - email of sender (e.g. "robot@domain.com")
-$from_email = "formularz@necior.pl";
+$from_email = "kontakt@necior.pl";
 // Email to receive message - PUT YOUR EMAIL HERE (or leave it blank if you won't receive emails)
 //$to = "kontakt@netforyou.pl";
-$to = "piotr.wilkosz@gmail.com";
+$to = "kontakt@necior.pl";
 // Telegram integration: token of created bot
 //(leave string empty if you don't want to use Telegram integration or check how to get Token here: https://designmodo.com/startup/documentation/#telegram)
 $telegramToken ='';
